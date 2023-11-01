@@ -1,0 +1,36 @@
+.ticket {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
+  
+  .user {
+    color: #666;
+  }
+  
+  .priority {
+    margin-top: 10px;
+  }
+  
+  .priority-4 {
+    color: red;
+  }
+  
+  .priority-3 {
+    color: orange;
+  }
+  
+  .priority-2 {
+    color: #00a3cc;
+  }
+  
+  .priority-1 {
+    color: green;
+  }
+  
